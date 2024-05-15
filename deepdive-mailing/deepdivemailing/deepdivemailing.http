@@ -1,0 +1,6 @@
+@deepdivemailing_HostAddress = http://localhost:5124
+
+GET {{deepdivemailing_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
